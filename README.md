@@ -1,7 +1,7 @@
 ## Hi I'm Sohab 👋
 A sophomore Computer Science student at Dalhousie University, who is passionate about solving problems through leveraging software.
 
-Previously interned @ Union Chlorine
+Previously interned @ Union Chlorine , @ SLEQ Department - Dalhousie University
 
 ### 🧰 Languages and Tools
 
