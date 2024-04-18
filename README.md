@@ -1,4 +1,4 @@
-- 👋 Hello, I' am Sohab!
+- 👋 Hello, I'm Sohab!
 - 👀 I’m interested in software engineering and statistics.
 - 🌱 I’m currently studying in Dalhousie University, Halifax, NS.
 - 💞️ I’m looking to dive deep and collaborate through internships!
