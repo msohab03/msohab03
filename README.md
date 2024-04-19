@@ -7,6 +7,6 @@
 - [Workday Inc.](https://www.workday.com/), Software Automation Engineer Intern
 - [Dalhousie University - SLEQ Data Department](https://www.dal.ca/dept/clt/sleq.html), Data Analytics Intern
 - [Union Chlorine](https://www.unionchlorine.com/), Software Engineering Intern
-- ☕️ How to reach me:
+- How to reach me:
       - Email: mohammed.sohab@dal.ca
       - Discord: #sohab1
