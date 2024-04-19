@@ -1,12 +1,12 @@
 - 👋 Hello, I'm Sohab!
-- 👀 I’m interested in software engineering and statistics.
-- 🌱 I’m currently studying in Dalhousie University, Halifax, NS.
-- 💞️ I’m looking to dive deep and collaborate through internships!
+- 🎋 I’m interested in software engineering and statistics.
+- 🧠 I’m currently studying in Dalhousie University, Halifax, NS.
+- 🤝 I’m looking to dive deep and collaborate through internships!
 - Portfolio: WIP
 - Previous Internships:
 - [Workday Inc.](https://www.workday.com/), Software Automation Engineer Intern
 - [Dalhousie University - SLEQ Data Department](https://www.dal.ca/dept/clt/sleq.html), Data Analytics Intern
 - [Union Chlorine](https://www.unionchlorine.com/), Software Engineering Intern
-- 📫 How to reach me:
+- ☕️ How to reach me:
       - Email: mohammed.sohab@dal.ca
       - Discord: #sohab1
