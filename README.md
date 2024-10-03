@@ -4,7 +4,7 @@
 - 🤝 I’m looking to dive deep and collaborate through internships!
 - Portfolio: WIP
 - Previous Internships:
-- [Workday Inc.](https://www.workday.com/), Software Automation Engineer Intern
+- [Workday Inc.](https://www.workday.com/), Software Test Automation Engineer Intern
 - [Dalhousie University - SLEQ Data Department](https://www.dal.ca/dept/clt/sleq.html), Data Analytics Intern
 - [Union Chlorine](https://www.unionchlorine.com/), Software Engineering Intern
 - How to reach me:
