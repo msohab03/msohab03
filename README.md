@@ -1,5 +1,5 @@
 - 👋 Hello, I'm Sohab!
-- 🎋 I’m interested in software engineering and statistics.
+- 🎋 I’m interested in backend engineering and LLMs (subject to change).
 - 🧠 I’m currently studying in Dalhousie University, Halifax, NS.
 - 🤝 I’m looking to dive deep and collaborate through internships!
 - Portfolio: WIP
