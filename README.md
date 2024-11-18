@@ -1,12 +1,20 @@
-- 👋 Hello, I'm Sohab!
-- 🎋 I’m interested in backend engineering and LLMs (subject to change).
-- 🧠 I’m currently studying in Dalhousie University, Halifax, NS.
-- 🤝 I’m looking to dive deep and collaborate through internships!
-- Portfolio: WIP
-- Previous Internships:
-- [Workday Inc.](https://www.workday.com/), Software Test Automation Engineer Intern
-- [Dalhousie University - SLEQ Data Department](https://www.dal.ca/dept/clt/sleq.html), Data Analytics Intern
-- [Union Chlorine](https://www.unionchlorine.com/), Software Engineering Intern
-- How to reach me:
-      - Email: msohab03@gmail.com
-      - Discord: #sohab1
+<h2 align="center">Hey there 👋, I'm Sohab</h2>
+
+
+  ```cpp
+  class Sohab {
+        private:
+          int age = 20;
+          string school = "Dalhousie University";
+          string[] courses = new string[] {"Computer Systems, Intro to Databases, Experimental Robotics"};
+          string[] hobbies = new string[] {"Football", "Hiking", "Piano"};
+        public:
+          Sohab();
+  }
+  ```
+
+Here are a few things I'm doing right now...
+
+- Contributing to Open Source - [Oyster](https://github.com/colorstackorg/oyster)
+- Interning @ Workday in the [Financial Reporting Team](https://www.workday.com/en-ca/products/financial-management/financial-analytics-reporting.html)
+- Brainstorming my next project
