@@ -6,7 +6,7 @@
         private:
           int age = 21;
           string school = "Dalhousie University";
-          string[] courses = new string[] {"Operating Systems, Databases, Robotics, Web Dev"};
+          string[] courses = new string[] {"Data Structures, Operating Systems, Databases, Robotics, Web Dev"};
           string[] hobbies = new string[] {"Football", "Hiking", "Piano"};
         public:
           Sohab();
